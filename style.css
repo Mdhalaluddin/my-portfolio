@@ -46,8 +46,10 @@ section {
     z-index: 100;
 }
 
-.logo {
-    font-size: 2.5rem;
+.logo img{
+    width: 6vw;
+    height: 3vw;
+    
     color: var(--text-color);
     font-weight: 4rem;
     font-weight: 700;
